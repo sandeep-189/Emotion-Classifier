@@ -9,8 +9,8 @@ This project was an attempt to familiarise myself with word data and with LSTM n
 
 Python >=3.6
 
-Pytorch_lightning >= 1.0
+Pytorch_lightning >= 0.9
 
 Torch >=1.6
 
-wandb (unknown version :P)
+wandb >=0.10.2
