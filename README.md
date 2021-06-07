@@ -1,7 +1,7 @@
 # Emotion-Classifier
 Identify input sentence's tone and emotion
 
-Usage : Run the Notebook file. One trained model is included. The data for this can be found at 
+Usage : Run the Notebook file.
 
 This project was an attempt to familiarise myself with word data and with LSTM networks. The notebook was used in Colab for training due to a lack of compatible GPU in my system and so the code is monolithic for ease of use.
 
